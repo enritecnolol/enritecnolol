@@ -42,6 +42,30 @@
   <a href="https://www.docker.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Docker/docker.svg" alt="docker" width="40" height="40"/>
   <a href="https://es.reactjs.org/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/React/react.svg" alt="react" width="40" height="40"/>
   <a href="https://nodejs.dev/learn"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/NodeJS/nodejs.svg" alt="nodJs" width="40" height="40"/>
+     <a style="text-decoration: none;" href="https://www.w3.org/html/"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32" />
+ </a>
+ <a style="text-decoration: none;" href="https://www.w3schools.com/css/"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32" />
+ </a>
+ <a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/>
+ </a>
+ <a style="text-decoration: none;" href="https://reactjs.org/"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="32" height="32" />
+ </a>
+ <a style="text-decoration: none;" href="https://www.typescriptlang.org/" > 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32" />
+ </a>
+ <a style="text-decoration: none;" href="https://redux.js.org"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="32" height="32" />
+ </a>
+ <a style="text-decoration: none;" href="https://getbootstrap.com/"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="32" height="32" />
+ </a>
+ <a style="text-decoration: none;" href="https://laravel.com/"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="32" height="32" />
+ </a>
 </p>
 
 <h2>🔥 Streak Stats</h2>
